@@ -4,7 +4,8 @@
 
 int integer;
 int main() {
-printf("Taille int : \n" sizeof(integer));
+printf("Taille int : \n", sizeof(integer));
 }
+
 
 
